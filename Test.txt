@@ -4,3 +4,4 @@ Test file has been successfully created and pushed. Now checking on merge and pu
 Fetch done. Checking Pull command.
 Local conflict second test
 Remote conflict second test
+Testing restore in staging area.
