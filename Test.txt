@@ -2,8 +2,4 @@ This file is a test
 Nothing important as of now.
 Test file has been successfully created and pushed. Now checking on merge and push.
 Fetch done. Checking Pull command.
-<<<<<<< HEAD
 Local conflict test
-=======
-Conflict in remote.
->>>>>>> c985baf647168405bdb8d271f0ce232ed3570668
