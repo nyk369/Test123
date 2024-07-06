@@ -5,3 +5,5 @@ Fetch done. Checking Pull command.
 Local conflict second test
 Remote conflict second test
 Testing restore in staging area.
+
+Okay, this is for testing github in VS code.
