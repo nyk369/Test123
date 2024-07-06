@@ -7,3 +7,5 @@ Remote conflict second test
 Testing restore in staging area.
 
 Okay, this is for testing github in VS code.
+
+And "if you are seeing this message, it has been successfully pushed to the main from VS code"
